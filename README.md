@@ -3,8 +3,8 @@
 
 * *This project was done as a task for an internship.*
 * *Wherein, I was assigned a task to calculate marks and percentage for the subjects mentioned like Science and Math.*
-* *Although task was little difficult but got to learn a lot of things from this project. *
-* *This is my little achievement in the data analytics industry. *
+* *Although task was little difficult but got to learn a lot of things from this project.*
+* *This is my little achievement in the data analytics industry.* 
 
 
 
