@@ -1,6 +1,12 @@
 # SQL-PROJECT
 
 
+* *This project was done as a task for an internship.*
+* *Wherein, I was assigned a task to calculate marks and percentage for the subjects mentioned like Science and Math.*
+* *Although task was little difficult but got to learn a lot of things from this project. *
+* *This is my little achievement in the data analytics industry. *
+
+
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/98949309/192105209-726e279a-49bb-466c-8996-635af9590433.png)
 
